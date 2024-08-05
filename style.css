@@ -1,0 +1,16 @@
+p { 
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+
+.carousel-control {
+    color: rgb(255, 225, 0) !important;
+}
+
+.carousel-indicators .active {
+    background-color: rgb(255, 225, 0) !important;
+}
